@@ -1,0 +1,5 @@
+{
+  "name": "Maintenance Plan Organizer",
+  "description": "An intelligent application that takes unstructured maintenance plan text and organizes it into a clear, structured, and visually appealing format using the Gemini API.",
+  "requestFramePermissions": []
+}
